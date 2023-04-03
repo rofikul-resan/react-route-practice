@@ -1,0 +1,22 @@
+.friend-card {
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.friend-card a {
+    display: block;
+    color: aliceblue;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+.btn {
+    color: aliceblue;
+    display: block;
+    margin-left: auto;
+    padding: 5px 20px;
+    background: green;
+    border: 0;
+    border-radius: 5px;
+}
