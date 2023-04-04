@@ -6,3 +6,12 @@
     width: fit-content;
     margin: 10px auto;
 }
+
+.active {
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: larger;
+    text-decoration: none;
+    background: #4f18e6;
+    color: aliceblue;
+}
